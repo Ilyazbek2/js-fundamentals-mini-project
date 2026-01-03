@@ -1,0 +1,13 @@
+
+---
+
+## 📄 src/01_marital_status.js
+
+```javascript
+// before 2023
+let isMarried = false;
+
+// after July 2023
+isMarried = true;
+
+console.log("Miranda's marital status:", isMarried);
