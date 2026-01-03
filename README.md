@@ -1,4 +1,4 @@
-## JavaScript Fundamentals – Mini Problems
+# JavaScript Fundamentals – Mini Problems
 
 This project contains simple JavaScript problems designed to practice core concepts such as:
 
