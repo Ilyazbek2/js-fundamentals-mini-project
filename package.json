@@ -1,0 +1,10 @@
+{
+  "name": "js-fundamentals-mini-project",
+  "version": "1.0.0",
+  "description": "Beginner JavaScript practice problems",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/01_marital_status.js"
+  },
+  "license": "MIT"
+}
